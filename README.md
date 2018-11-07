@@ -2,3 +2,4 @@
     Studying and Implement Face Recognition.
 #### 资料<br>
 >* [关于人脸识别的历史](https://mp.weixin.qq.com/s/_lMCUBhFc-vwUzA77OHckg)<br>
+>* [人脸识别的基本概念]
